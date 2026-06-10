@@ -94,3 +94,62 @@ This project was completed as Task 2 of the CodSoft Machine Learning Internship.
 ## Author
 
 Princy Dewangan
+
+#project-3
+# Credit Card Fraud Detection Using Machine Learning
+
+## Overview
+
+This project focuses on detecting fraudulent credit card transactions using Machine Learning techniques. Due to the highly imbalanced nature of fraud datasets, SMOTE (Synthetic Minority Oversampling Technique) is used to balance the classes before training the model.
+
+## Features
+
+* Data preprocessing and cleaning
+* Handling missing values
+* Feature scaling using StandardScaler
+* Class imbalance handling using SMOTE
+* Random Forest Classifier implementation
+* Model evaluation using Accuracy, Precision, Recall, and F1-Score
+* Confusion Matrix visualization
+* Feature Importance Analysis
+* Model saving using Joblib
+
+## Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
+* Imbalanced-learn (SMOTE)
+* Joblib
+
+## Workflow
+
+1. Load and preprocess the dataset
+2. Scale numerical features
+3. Handle class imbalance using SMOTE
+4. Split data into training and testing sets
+5. Train Random Forest Classifier
+6. Evaluate model performance
+7. Visualize results
+8. Save trained model
+
+## Results
+
+The model successfully identifies fraudulent transactions and provides detailed evaluation metrics including Precision, Recall, F1-Score, and Confusion Matrix.
+
+## Learning Outcomes
+
+* Data preprocessing techniques
+* Handling imbalanced datasets
+* Classification using Random Forest
+* Model evaluation and visualization
+* Machine Learning project deployment workflow
+
+## Author
+
+Princy Dewangan
+CodSoft Internship Project
+
