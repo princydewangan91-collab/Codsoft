@@ -42,3 +42,55 @@ This project was completed as Task 1 of the CodSoft Machine Learning Internship.
 ## Author
 
 Princy Dewangan
+
+
+# project-2
+
+# Movie Rating Prediction
+
+This project is a part of my CodSoft Machine Learning Internship. The objective is to predict movie ratings using machine learning techniques based on features such as genre, director, actors, duration, year, and votes.
+
+## Features
+
+* Data preprocessing and cleaning
+* Handling missing values
+* Feature encoding using Label Encoder
+* Feature engineering and data transformation
+* Train-test split for model evaluation
+* Random Forest Regressor implementation
+* Feature importance analysis
+* Rating prediction and visualization
+
+## Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Scikit-learn
+
+## Dataset
+
+The IMDb India Movies dataset contains movie information such as:
+
+* Genre
+* Director
+* Actor 1
+* Actor 2
+* Actor 3
+* Duration
+* Year
+* Votes
+* Rating
+
+## Results
+
+The model was trained using the Random Forest Regression algorithm and evaluated using MAE, RMSE, and R² Score to predict movie ratings accurately.
+
+## Internship
+
+This project was completed as Task 2 of the CodSoft Machine Learning Internship.
+
+## Author
+
+Princy Dewangan
